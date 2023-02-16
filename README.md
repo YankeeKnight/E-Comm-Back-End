@@ -1,4 +1,5 @@
 # E-Comm-Back-End
+Object-Relational Mapping (ORM)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
