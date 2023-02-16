@@ -5,13 +5,6 @@
 ## Description
 A back end build for an e-commerce site using Express API and using Sequelize to interact with a MySQL database.
 
-## Table of Contents
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Walkthrough](#walkthrough)
-4. [Tests](#tests)
-5. [License](#license)
-
 ## Installation
 The user would clone the repository from GitHub and download Node. The application requires the dotenv, Express, mysql2 and Sequelize modules to function.
 
